@@ -1,0 +1,150 @@
+a:hover {
+    color: yellow;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    background: teal;
+}
+
+.card-header {
+    height: 70px;
+    justify-content: center;
+}
+
+.modal-title {
+    color: white;
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 650%;  
+    text-align: center; 
+    padding-right: 320px;
+    padding-top: 200px;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+
+h2, h3 {
+    font-family: 'Permanent Marker', cursive;
+    text-align:center;
+}
+
+h2 {
+    color: #3046c5;
+
+}
+
+h4 {
+    font-family: 'Caveat', cursive;
+    font-size: 110px;
+    color: black;
+    text-align: left;
+    padding-left: 400px;
+    
+}
+
+h5 {
+    color: yellow;
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+}
+
+.list-unstyled {
+    padding-right: 90px;
+}
+
+#loginHome {
+    font-size: 50px;
+}
+
+
+#createProfile {
+    font-size: 100px;
+}
+
+header h4 {
+    color: white;
+}
+
+
+
+header h2 {
+    color: #cec8ff;
+}
+.site-footer {
+    background-color: black;
+    padding: 20px;
+    margin-top: 100px;
+   
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background: teal;
+    color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+
+.jumbobuttons
+{
+    text-size-adjust: 50%;
+}
+
+img.centered
+{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-left: -100px; /* Width of image /2 */
+  margin-top: -100px; /* Height of image /2 */
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+.navbar {
+    background-color: #000000;
+    
+}
+
+.btn {
+    font-size: 50px;
+    align-content: center;
+    
+}
+
+.button_div {
+    padding-right: 100px;
+}
+
+.text-right {
+    padding-top: 2px;
+    text-align:center;
+}
+
+#createProfile, #login {
+    font-size: 20px;
+}
+
+#jumboTV {
+    width: 800%;
+    height: 200%;
+}
+
+#about, #contact, #saveChanges, #cancel, #shows, #profile, #fpw {
+    font-size: 20px;
+}
+
+table, th, td {
+    border: .3px solid black;
+  }
